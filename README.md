@@ -2,7 +2,7 @@
     <img width="150" src="./assets/top.gif" alt="top-image"/>
 </div>
 
-###    
+###
 
 <div align="center">
     <a href="https://www.linkedin.com/in/nureka-rodrigo/" target="_blank">
@@ -13,17 +13,17 @@
     </a>
 </div>
 
-###    
+###
 
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=nureka-rodrigo&color=blue" alt="profile-views"/>
-</div> 
+</div>
 
-###    
+###
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Nureka+Rodrigo!;" alt="greeting"/>
-</h1> 
+</h1>
 
 ###
 
@@ -31,7 +31,7 @@
 
 <div align="center">
     <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/nureka-rodrigo/nureka-rodrigo/output/github-contribution-grid-snake.svg"/>
-</div> 
+</div>
 
 ###
 
@@ -44,7 +44,7 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-554.9%20thousand%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
+**I'm a Night 🦉**
 
 ```text
 🌞 Morning                328 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
@@ -52,7 +52,8 @@
 🌃 Evening                928 commits         ███████████░░░░░░░░░░░░░░   45.14 % 
 🌙 Night                  112 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
 Monday                   320 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.56 % 
@@ -64,8 +65,7 @@ Saturday                 314 commits         ████░░░░░░░�
 Sunday                   279 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Colombo
@@ -88,7 +88,6 @@ Linux                    23 hrs 42 mins      ███████████�
 Windows                  18 hrs 30 mins      ███████████░░░░░░░░░░░░░░   43.85 % 
 ```
 
-
  Last Updated on 24/07/2025 02:44:13 UTC
 <!--END_SECTION:waka-->
 
@@ -100,25 +99,19 @@ Windows                  18 hrs 30 mins      ███████████�
 
 <h2 align="center">⚡ MY STATS ⚡</h2>
 
-###    
+###
 
-<div align="center">
-    <table>
-        <tr>
-            <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=nureka-rodrigo&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
-            </td>
-            <td rowspan="2" align="center">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka-rodrigo&locale=en&card_width=320&langs_count=8&theme=dark&order=2&count_private=true" alt="languages graph"/>
-            </td>
-        </tr>
-        <tr>
-            <td align="center">
-                <img src="https://streak-stats.demolab.com?user=nureka-rodrigo&theme=dark" alt="streak graph"/>
-            </td>
-        </tr>
-    </table>
-</div> 
+<p align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=nureka-rodrigo&show_icons=true&count_private=true&theme=dark" alt="stats graph"/>
+</p>
+
+<p align="center">
+   <img src="https://streak-stats.demolab.com?user=nureka-rodrigo&theme=dark" alt="streak graph"/>
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=nureka-rodrigo&theme=darkhub&no-bg=true&margin-w=5&margin-h=5" alt="profile trophy" />
+</p>
 
 ###
 
@@ -139,7 +132,7 @@ Windows                  18 hrs 30 mins      ███████████�
             </td>
         </tr>
     </table>
-</div> 
+</div>
 
 ###
 
