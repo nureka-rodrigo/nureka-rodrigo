@@ -106,7 +106,7 @@ Windows                  18 hrs 30 mins      ███████████�
     <table>
         <tr>
             <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=nureka-rodrigo&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
+                <img src="https://github-readme-stats.vercel.app/api?username=nureka-rodrigo&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&theme=dark&locale=en&order=1" alt="stats graph"/>
             </td>
             <td rowspan="2" align="center">
                 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nureka-rodrigo&locale=en&card_width=320&langs_count=8&theme=dark&order=2&count_private=true" alt="languages graph"/>
