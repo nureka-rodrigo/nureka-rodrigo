@@ -133,7 +133,7 @@ Windows                  17 hrs 13 mins      ███████████�
             </td>
             <td align="center">
                 <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nureka-rodrigo&theme=dark&compact=True&langs_count=7" alt="most-used-languages"/>
+                <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nureka-rodrigo&theme=dark&compact=True&langs_count=6" alt="most-used-languages"/>
             </td>
         </tr>
     </table>
