@@ -112,7 +112,7 @@ Windows                  17 hrs 13 mins      ███████████�
         </tr>
         <tr>
             <td align="center">
-                <img src="https://github-readme-stats-fast.vercel.app/api/streak?user=nureka-rodrigo&theme=dark" alt="streak graph"/>
+                <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=nureka-rodrigo&theme=dark" alt="streak graph"/>
             </td>
         </tr>
     </table>
