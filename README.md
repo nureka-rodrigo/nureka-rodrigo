@@ -87,7 +87,7 @@ Windows                  17 hrs 13 mins      ███████████�
 ```
 
 
- Last Updated on 28/12/2025 05:02:09 UTC
+ Last Updated on 27/12/2025 02:35:50 UTC
 <!--END_SECTION:waka-->
 
 ###
@@ -104,7 +104,7 @@ Windows                  17 hrs 13 mins      ███████████�
     <table>
         <tr>
             <td align="center">
-                <img src="https://github-readme-stats.vercel.app/api?username=nureka-rodrigo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="stats graph"/>
+                <img src="https://github-readme-stats-fast.vercel.app/api?username=nureka-rodrigo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="stats graph"/>
             </td>
             <td rowspan="2" align="center">
                 <img align="center" src="https://github-profile-trophy.vercel.app/?username=nureka-rodrigo&theme=darkhub&no-bg=true&margin-w=5&margin-h=5&column=3" alt="profile trophy" />
@@ -112,7 +112,7 @@ Windows                  17 hrs 13 mins      ███████████�
         </tr>
         <tr>
             <td align="center">
-                <img src="https://streak-stats.demolab.com?user=nureka-rodrigo&theme=dark" alt="streak graph"/>
+                <img src="https://github-readme-stats-fast.vercel.app/api/streak?user=nureka-rodrigo&theme=dark" alt="streak graph"/>
             </td>
         </tr>
     </table>
@@ -133,7 +133,7 @@ Windows                  17 hrs 13 mins      ███████████�
             </td>
             <td align="center">
                 <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@nureka99&theme=dark&compact=True&langs_count=10" alt="most-used-languages"/>
+                <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nureka-rodrigo&theme=dark&compact=True&langs_count=10" alt="most-used-languages"/>
             </td>
         </tr>
     </table>
