@@ -107,7 +107,7 @@ Windows                  17 hrs 13 mins      ███████████�
                 <img src="https://github-readme-stats-fast.vercel.app/api?username=nureka-rodrigo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="stats graph"/>
             </td>
             <td rowspan="2" align="center">
-                <img align="center" src="https://github-profile-trophy.vercel.app/?username=nureka-rodrigo&theme=darkhub&no-bg=true&margin-w=5&margin-h=5&column=3" alt="profile trophy" />
+                <img align="center" src="https://github-trophies.vercel.app?username=nureka-rodrigo&theme=darkhub&no-bg=true&margin-w=5&margin-h=5&column=3" alt="profile trophy" />
             </td>
         </tr>
         <tr>
