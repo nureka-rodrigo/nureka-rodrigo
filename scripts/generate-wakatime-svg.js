@@ -5,7 +5,7 @@ const WAKATIME_URL =
   "https://wakatime.com/share/@nureka99/f49b73ce-55a8-41e0-8cbc-36db01175a78.json";
 
 const OUTPUT = "wakatime-languages.svg";
-const WIDTH = 500;
+const WIDTH = 400;
 const BAR_HEIGHT = 22;
 const GAP = 10;
 const PADDING = 20;
@@ -55,10 +55,10 @@ function generateSVG(langs) {
     text { font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial; }
   </style>
 
-  <rect width="100%" height="100%" rx="14" fill="#0d1117"/>
+  <rect width="100%" height="100%" rx="14" fill="#212121"/>
 
   <text x="20" y="28" fill="#f0f6fc" font-size="16" font-weight="600">
-    Code With Me (WakaTime)
+    All-Time Language Usage (WakaTime)
   </text>
 
   <g transform="translate(0, 20)">
@@ -70,7 +70,7 @@ function generateSVG(langs) {
 
 (async () => {
   const json = await fetchJSON(WAKATIME_URL);
-  const topLangs = json.data.filter((l) => l.percent > 0).slice(0, 6);
+  const topLangs = json.data.filter((l) => l.percent > 0).slice(0, 9);
 
   const svg = generateSVG(topLangs);
 

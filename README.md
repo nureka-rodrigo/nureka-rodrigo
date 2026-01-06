@@ -105,11 +105,8 @@ Last Updated on 06/01/2026 02:43:16 UTC
 <div align="center">
     <table>
         <tr>
-            <td align="center">
-                <img src="https://github-readme-stats-fast.vercel.app/api?username=nureka-rodrigo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="stats graph"/>
-            </td>
             <td rowspan="2" align="center">
-                <img align="center" src="https://github-trophies.vercel.app?username=nureka-rodrigo&theme=darkhub&no-bg=true&margin-w=5&margin-h=5&column=3" alt="profile trophy" />
+                <img src="https://github-readme-stats-fast.vercel.app/api?username=nureka-rodrigo&show_icons=true&count_private=true&theme=dark&include_all_commits=true" alt="stats graph"/>
             </td>
         </tr>
         <tr>
@@ -118,6 +115,10 @@ Last Updated on 06/01/2026 02:43:16 UTC
             </td>
         </tr>
     </table>
+</div>
+
+<div align="center">
+<img src="https://github-trophies.vercel.app?username=nureka-rodrigo&theme=darkhub&no-bg=true&margin-w=5&margin-h=5&column=6" alt="profile trophy" />
 </div>
 
 ###
@@ -135,7 +136,7 @@ Last Updated on 06/01/2026 02:43:16 UTC
             </td>
             <td align="center">
                 <h2>👨‍💻 CODE WITH ME 👨‍💻</h2>
-                <img src="./assets/wakatime-languages.svg" alt="Code with me (WakaTime)" />
+                <img src="https://raw.githubusercontent.com/nureka-rodrigo/nureka-rodrigo/output/wakatime-languages.svg" alt="Code with me (WakaTime)" />
             </td>
         </tr>
     </table>
