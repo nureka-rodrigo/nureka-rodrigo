@@ -1,0 +1,64 @@
+name: Generate Profile Assets
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # ------------------------------------
+      # Generate WakaTime SVG (repo root)
+      # ------------------------------------
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Generate WakaTime SVG
+        run: node scripts/generate-wakatime-svg.js
+
+      # ------------------------------------
+      # Generate snake (creates root-owned dist/)
+      # ------------------------------------
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # ------------------------------------
+      # FIX: write into dist using sudo
+      # ------------------------------------
+      - name: Add WakaTime SVG to dist
+        run: |
+          sudo cp wakatime-languages.svg dist/wakatime-languages.svg
+          sudo chown -R $USER:$USER dist
+
+      # ------------------------------------
+      # Publish
+      # ------------------------------------
+      - name: Publish assets
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+          commit_message: "chore: update snake + wakatime assets"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
