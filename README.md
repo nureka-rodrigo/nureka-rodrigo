@@ -40,55 +40,10 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C357%20hrs%201%20min-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.42%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                768 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-🌆 Daytime                1665 commits        █████████░░░░░░░░░░░░░░░░   35.58 % 
-🌃 Evening                1942 commits        ██████████░░░░░░░░░░░░░░░   41.50 % 
-🌙 Night                  305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   682 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Tuesday                  665 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.21 % 
-Wednesday                660 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-Thursday                 846 commits         █████░░░░░░░░░░░░░░░░░░░░   18.08 % 
-Friday                   666 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
-Saturday                 672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Sunday                   489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.43%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-TypeScript               2 hrs 57 mins       ████████████░░░░░░░░░░░░░   48.32 % 
-Other                    2 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
-JSON                     29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-CSS                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-
-🔥 Editors: 
-PhpStorm                 2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   38.81 % 
-Edge                     1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.67 % 
-VS Code                  1 hr 42 mins        ███████░░░░░░░░░░░░░░░░░░   27.82 % 
-PyCharm                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
-
-💻 Operating System: 
-Windows                  6 hrs 6 mins        █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 04:37:58 UTC
+ Last Updated on 15/05/2026 04:45:05 UTC
 <!--END_SECTION:waka-->
 
 ###
