@@ -40,55 +40,10 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C361%20hrs%201%20min-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.43%20million%20lines%20of%20code-blue?style=flat)
 
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                792 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.79 % 
-🌆 Daytime                1677 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
-🌃 Evening                1943 commits        ██████████░░░░░░░░░░░░░░░   41.19 % 
-🌙 Night                  305 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.47 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   691 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Tuesday                  666 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-Wednesday                672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Thursday                 854 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Friday                   673 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
-Saturday                 672 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Sunday                   489 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-Other                    2 hrs 40 mins       █████████████████░░░░░░░░   67.71 % 
-TypeScript               36 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-JSON                     29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.32 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
-
-🔥 Editors: 
-Edge                     2 hrs 49 mins       ██████████████████░░░░░░░   71.84 % 
-PhpStorm                 53 mins             ██████░░░░░░░░░░░░░░░░░░░   22.66 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-💻 Operating System: 
-Windows                  3 hrs 56 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 17/05/2026 04:47:58 UTC
+ Last Updated on 18/05/2026 05:01:00 UTC
 <!--END_SECTION:waka-->
 
 ###
