@@ -40,55 +40,12 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C385%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%207%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.07%20million%20lines%20of%20code-blue?style=flat)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                746 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-🌆 Daytime                1461 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
-🌃 Evening                1865 commits        ███████████░░░░░░░░░░░░░░   42.77 % 
-🌙 Night                  289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   620 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
-Tuesday                  577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Wednesday                621 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Thursday                 807 commits         █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
-Friday                   590 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.53 % 
-Saturday                 675 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Sunday                   471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-```
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.06%20million%20lines%20of%20code-blue?style=flat)
 
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Colombo
-
-💬 Programming Languages: 
-TypeScript               11 hrs 11 mins      █████████████████░░░░░░░░   67.82 % 
-Other                    2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
-Markdown                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
-Python                   40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-
-🔥 Editors: 
-PhpStorm                 8 hrs 8 mins        ████████████░░░░░░░░░░░░░   49.36 % 
-VS Code                  3 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.20 % 
-Edge                     2 hrs 48 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
-Claude Code              2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-
-💻 Operating System: 
-Windows                  16 hrs 30 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28/05/2026 04:57:24 UTC
+ Last Updated on 29/05/2026 05:02:05 UTC
 <!--END_SECTION:waka-->
 
 ###
