@@ -40,12 +40,56 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C387%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C388%20hrs%202%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.06%20million%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 29/05/2026 05:02:05 UTC
+```text
+🌞 Morning                716 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+🌆 Daytime                1446 commits        ████████░░░░░░░░░░░░░░░░░   33.50 % 
+🌃 Evening                1865 commits        ███████████░░░░░░░░░░░░░░   43.21 % 
+🌙 Night                  289 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.70 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   608 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+Tuesday                  577 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Wednesday                606 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
+Thursday                 798 commits         █████░░░░░░░░░░░░░░░░░░░░   18.49 % 
+Friday                   581 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Saturday                 675 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.64 % 
+Sunday                   471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+TypeScript               11 hrs 15 mins      ████████████████░░░░░░░░░   65.48 % 
+Other                    2 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Markdown                 1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
+Python                   1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+JSON                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+
+🔥 Editors: 
+PhpStorm                 7 hrs 41 mins       ███████████░░░░░░░░░░░░░░   44.77 % 
+VS Code                  4 hrs 57 mins       ███████░░░░░░░░░░░░░░░░░░   28.81 % 
+Claude Code              2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+Edge                     1 hr 56 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
+WebStorm                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+
+💻 Operating System: 
+Windows                  17 hrs 11 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 30/05/2026 04:42:34 UTC
 <!--END_SECTION:waka-->
 
 ###
