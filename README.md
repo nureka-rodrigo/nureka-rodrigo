@@ -40,12 +40,54 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C473%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C473%20hrs%2030%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-997.40%20thousand%20lines%20of%20code-blue?style=flat)
 
+**I'm an Early 🐤** 
 
- Last Updated on 17/07/2026 03:55:14 UTC
+```text
+🌞 Morning                695 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.41 % 
+🌆 Daytime                1332 commits        ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌃 Evening                1705 commits        ███████████░░░░░░░░░░░░░░   42.71 % 
+🌙 Night                  260 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   525 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+Tuesday                  519 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
+Wednesday                568 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.23 % 
+Thursday                 749 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+Friday                   607 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
+Saturday                 608 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Sunday                   416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Colombo
+
+💬 Programming Languages: 
+TypeScript               7 hrs 12 mins       ███████████████░░░░░░░░░░   61.36 % 
+Markdown                 1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Python                   1 hr 20 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
+JSON                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 % 
+JavaScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+
+🔥 Editors: 
+Claude Code              10 hrs 10 mins      ██████████████████████░░░   86.73 % 
+IntelliJ IDEA            1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+Copilot CLI              3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
+
+💻 Operating System: 
+Windows                  11 hrs 44 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 18/07/2026 03:50:48 UTC
 <!--END_SECTION:waka-->
 
 ###
