@@ -73,46 +73,46 @@ Sunday                   391 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-TypeScript               3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
-Python                   2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
-Java                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.18 % 
-Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
-TeX                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.40 % 
+TypeScript               3 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   40.12 % 
+Python                   1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   22.16 % 
+Java                     1 hr 49 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+Markdown                 1 hr 3 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
+TeX                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
 
 🔥 Editors: 
-Claude Code              5 hrs 57 mins       ████████████████░░░░░░░░░   65.82 % 
-IntelliJ IDEA            1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   20.81 % 
-VS Code                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Claude Code              5 hrs 56 mins       █████████████████░░░░░░░░   66.57 % 
+IntelliJ IDEA            1 hr 53 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+VS Code                  1 hr 5 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
 
 💻 Operating System: 
-Windows                  9 hrs 3 mins        █████████████████████████   100.00 % 
+Windows                  8 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 56 mins (76.64%)
+⏱ AI Coding Time: 6 hrs 55 mins (77.56%)
 
-✍️ 5,013 lines written by AI, 264 lines written by hand (95.0% AI-written)
+✍️ 5,013 lines written by AI, 246 lines written by hand (95.32% AI-written)
 
-🔤 238,633,156 Input Tokens, 573,328 Output Tokens
+🔤 238,286,222 Input Tokens, 572,329 Output Tokens
 
-💵 $1073.03 Estimated AI Cost This Week
+💵 $1071.98 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 66 AI Prompts
+🧠 9 AI Sessions, 65 AI Prompts
 
 Opus                     3,901 lines         ██████████████████░░░░░░░   70.85 % 
 Sonnet                   1,605 lines         ███████░░░░░░░░░░░░░░░░░░   29.15 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.0% of written lines came from AI
-📝 Concise Prompter — average 213 characters per prompt
+🤖 AI-Driven — 95.32% of written lines came from AI
+📝 Concise Prompter — average 215 characters per prompt
 🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 5.74% of changed lines were hand-edited
+🚀 High AI Trust — 5.41% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/08/2026 04:08:55 UTC
+ Last Updated on 02/08/2026 04:13:19 UTC
 <!--END_SECTION:waka-->
 
 ###
