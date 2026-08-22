@@ -73,47 +73,47 @@ Sunday                   392 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Python                   2 hrs 53 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
-Markdown                 2 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   23.67 % 
-HTML                     1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
-TypeScript               59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-R                        14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+HTML                     1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   40.87 % 
+Markdown                 1 hr 13 mins        ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+TypeScript               21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Python                   17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+PowerShell               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
 
 🔥 Editors: 
-Claude Code              7 hrs 3 mins        ████████████████████░░░░░   78.59 % 
-VS Code                  1 hr 17 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.33 % 
-IntelliJ IDEA            38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Claude Code              2 hrs 42 mins       ████████████████░░░░░░░░░   64.14 % 
+VS Code                  1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   28.69 % 
+IntelliJ IDEA            18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Windows                  8 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 6 mins (90.45%)
+⏱ AI Coding Time: 3 hrs 26 mins (81.53%)
 
-✍️ 5,383 lines written by AI, 121 lines written by hand (97.8% AI-written)
+✍️ 2,515 lines written by AI, 121 lines written by hand (95.41% AI-written)
 
-🔤 3,275,577 Input Tokens, 581,627 Output Tokens
+🔤 1,976,995 Input Tokens, 274,173 Output Tokens
 
-💵 $97.69 Estimated AI Cost This Week
+💵 $32.79 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 65 AI Prompts
+🧠 10 AI Sessions, 49 AI Prompts
 
-Opus                     4,328 lines         ████████████████████░░░░░   78.48 % 
-Sonnet                   1,187 lines         █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Opus                     1,915 lines         ███████████████████░░░░░░   75.39 % 
+Sonnet                   625 lines           ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 97.8% of written lines came from AI
-📝 Concise Prompter — average 282 characters per prompt
+🤖 AI-Driven — 95.41% of written lines came from AI
+📝 Concise Prompter — average 295 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 2.94% of changed lines were hand-edited
+🚀 High AI Trust — 6.17% of changed lines were hand-edited
 ```
 
 
- Last Updated on 21/08/2026 02:14:51 UTC
+ Last Updated on 22/08/2026 02:05:09 UTC
 <!--END_SECTION:waka-->
 
 ###
