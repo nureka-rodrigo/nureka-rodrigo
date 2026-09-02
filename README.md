@@ -40,30 +40,30 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C314%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C314%20hrs%2040%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-149%20hrs%2055%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-150%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-714.82%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-716.82%20thousand%20lines%20of%20code-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                513 commits         ██████░░░░░░░░░░░░░░░░░░░   22.03 % 
-🌆 Daytime                767 commits         ████████░░░░░░░░░░░░░░░░░   32.93 % 
-🌃 Evening                927 commits         ██████████░░░░░░░░░░░░░░░   39.80 % 
-🌙 Night                  122 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+🌞 Morning                513 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+🌆 Daytime                771 commits         ████████░░░░░░░░░░░░░░░░░   33.05 % 
+🌃 Evening                927 commits         ██████████░░░░░░░░░░░░░░░   39.73 % 
+🌙 Night                  122 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.23 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   415 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Tuesday                  343 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Wednesday                366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-Thursday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.37 % 
-Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.35 % 
-Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
-Sunday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
+Monday                   415 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+Tuesday                  347 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
+Wednesday                366 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+Thursday                 358 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+Friday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
+Saturday                 263 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Sunday                   273 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
 ```
 
 
@@ -73,23 +73,41 @@ Sunday                   273 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 14 mins             ████████████████░░░░░░░░░   62.91 % 
+TypeScript               8 mins              █████████░░░░░░░░░░░░░░░░   37.09 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              17 mins             ██████████████████░░░░░░░   73.77 % 
+IntelliJ IDEA            6 mins              ███████░░░░░░░░░░░░░░░░░░   26.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 18 mins (76.55%)
+
+✍️ 349 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 124,250 Input Tokens, 33,943 Output Tokens
+
+💵 $5.14 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 2 AI Prompts
+
+Opus                     349 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 129 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/09/2026 05:32:56 UTC
+ Last Updated on 02/09/2026 04:59:20 UTC
 <!--END_SECTION:waka-->
 
 ###
