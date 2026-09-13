@@ -73,46 +73,45 @@ Sunday                   273 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Colombo
 
 💬 Programming Languages: 
-Markdown                 2 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   28.47 % 
-Python                   1 hr 56 mins        █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
-YAML                     1 hr 34 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
-TypeScript               1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
-Nginx configuration file 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Markdown                 4 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   34.03 % 
+Python                   2 hrs 5 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+TypeScript               1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+YAML                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.85 % 
+Nginx configuration file 41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.65 % 
 
 🔥 Editors: 
-Claude Code              9 hrs 11 mins       ██████████████████████░░░   87.31 % 
-IntelliJ IDEA            1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-VS Code                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+Claude Code              11 hrs 12 mins      ███████████████████████░░   90.98 % 
+IntelliJ IDEA            1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 18 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 hrs 50 mins (93.53%)
+⏱ AI Coding Time: 11 hrs 46 mins (95.56%)
 
-✍️ 8,719 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 10,395 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 4,391,837 Input Tokens, 777,601 Output Tokens
+🔤 4,720,654 Input Tokens, 894,529 Output Tokens
 
-💵 $155.50 Estimated AI Cost This Week
+💵 $178.70 Estimated AI Cost This Week
 
-🧠 14 AI Sessions, 44 AI Prompts
+🧠 19 AI Sessions, 54 AI Prompts
 
-Opus                     8,373 lines         ████████████████████████░   94.75 % 
-Sonnet                   464 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+Opus                     10,101 lines        ████████████████████████░   95.71 % 
+Sonnet                   453 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📝 Concise Prompter — average 110 characters per prompt
+📝 Concise Prompter — average 167 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.01% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/09/2026 04:57:52 UTC
+ Last Updated on 13/09/2026 05:10:26 UTC
 <!--END_SECTION:waka-->
 
 ###
